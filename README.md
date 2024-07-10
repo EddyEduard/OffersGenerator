@@ -20,6 +20,8 @@ To run the application in the development mode use this command:
 python3 test.py
 ```
 
+Install Ollama from this [link](https://ollama.com/download).
+
 ## Training the model
 
 For creating the AI model has been used the LLM (Large Language Model) Llama 3. 
